@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day5\part1\ConApp day5 Asspart1\ConApp day5 Asspart1\bin\Debug\ConApp day5 Asspart1.exe.config
+D:\mphasis\assignments\day5\part1\ConApp day5 Asspart1\ConApp day5 Asspart1\bin\Debug\ConApp day5 Asspart1.exe
+D:\mphasis\assignments\day5\part1\ConApp day5 Asspart1\ConApp day5 Asspart1\bin\Debug\ConApp day5 Asspart1.pdb
+D:\mphasis\assignments\day5\part1\ConApp day5 Asspart1\ConApp day5 Asspart1\obj\Debug\ConApp day5 Asspart1.csproj.AssemblyReference.cache
+D:\mphasis\assignments\day5\part1\ConApp day5 Asspart1\ConApp day5 Asspart1\obj\Debug\ConApp day5 Asspart1.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day5\part1\ConApp day5 Asspart1\ConApp day5 Asspart1\obj\Debug\ConApp day5 Asspart1.exe
+D:\mphasis\assignments\day5\part1\ConApp day5 Asspart1\ConApp day5 Asspart1\obj\Debug\ConApp day5 Asspart1.pdb
